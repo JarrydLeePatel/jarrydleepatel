@@ -1,8 +1,5 @@
-### Hi there 👋
-
-![](https://www.youtube.com/watch?v=Y1z7_GfEPiE)
-
-Here are some ideas to get you started:
+### Hi there, Welcome to my Github Profile!👋
+My Name is Jarryd! :raising_hand: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
