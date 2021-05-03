@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://media-exp1.licdn.com/dms/image/C4D16AQF5lialgQqxCQ/profile-displaybackgroundimage-shrink_200_800/0/1583947138651?e=1625702400&v=beta&t=m5UPM8Ka4hLNvHFwVyRCE66RSBHzdD-zcb-atyz32ds)
+![](https://www.youtube.com/watch?v=Y1z7_GfEPiE)
 
 Here are some ideas to get you started:
 
