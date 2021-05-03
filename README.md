@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**JarrydLeePatel/jarrydleepatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media-exp1.licdn.com/dms/image/C4D16AQF5lialgQqxCQ/profile-displaybackgroundimage-shrink_200_800/0/1583947138651?e=1625702400&v=beta&t=m5UPM8Ka4hLNvHFwVyRCE66RSBHzdD-zcb-atyz32ds)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
