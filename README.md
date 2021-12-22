@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarrydleepatel" />
 </a>
 
-## Tech Experience
+
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
