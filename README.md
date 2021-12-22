@@ -1,8 +1,10 @@
 # Hi there, Welcome to my Github Profile!👋
 ## My Name is Jarryd! :raising_hand: 
 
-- 💬 Ask me about anything
-- 📫 How to reach me: https://www.linkedin.com/in/jarrydleepatel/
+- 💬 Ask me about anything! 
+- 📫 Feel free to contact me at : https://www.linkedin.com/in/jarrydleepatel/
+- 🌍 Website Portfolio : https://jarrydleepatel.github.io/
+
 ## 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
