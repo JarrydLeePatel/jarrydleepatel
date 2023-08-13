@@ -23,13 +23,8 @@
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=fcbc38)
 
-## My GitHub Stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jarrydleepatel&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarrydleepatel" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarrydleepatel&show_icons=true&locale=en" alt="jarrydleepatel" /></p>
+
 
 
 
