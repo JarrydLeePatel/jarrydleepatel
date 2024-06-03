@@ -1,9 +1,7 @@
 # Hi there, Welcome to my Github Profile!👋
 ## My Name is Jarryd! :raising_hand: 
 
-- 💬 Ask me about anything! 
-- 📫 Feel free to contact me at : https://www.linkedin.com/in/jarrydleepatel/
-- 🌍 Website Portfolio : https://jarrydleepatel.github.io/
+- 📫 Feel free to contact me on LinkedIn : https://www.linkedin.com/in/jarrydleepatel/
 
 ## 
 
