@@ -1,4 +1,3 @@
-Software Engineer specializing in Cloud-based solutions and Business Process Automation within the Financial sector.
 Driven to streamline business operations through software. I design and implement tools that automate workflows, boost productivity, and significantly reduce operational overhead.
 
 ### 🌐 Find me on:
